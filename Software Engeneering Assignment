@@ -1,1 +1,17 @@
+QUESTION ONE
+What is software engeneering - it refers to systematic application of engeneering principles, methods, tools to the development and maintenance of a high quality software. It involves development, design, testing, deployment and maintenance of software products.
+It differs from the traditional as based on the following:
+1.Scope: Software engineering encompasses the full software development lifecycle, whereas traditional programming focusses on code.
+2.Processes: To assure quality and efficiency, software engineers use structured processes and techniques such as requirement gathering, design, testing, and maintenance.
+3.Team Collaboration: Software engineering frequently necessitates cooperation and collaboration, with varied responsibilities such as designers, testers, and project managers.
 
+QUESTION TWO
+The following are the processes based on the software development life cycle:
+1.Preliminary Investigation - it is based on  brief investigation of a system unde consideration and give a clear picture of system in use
+2.Feasibility Study - its based on testing a proposed system to establish its workability, meeting user requirements, effectuve use of resources.
+3.Detailed System Study: its based proccess that is carrried out with the objectives of a proposed system.
+4. System Analysis - process of collecting factual data, understanding the process involved, identifying problems and recommend feasible suggestions for improving system functioning.
+5.System Design - It is based of the process of transforming the requirements SRS to a design suitable for implementation in programming
+6.Coding - Process where the system design is implemented to a workable system
+7.Testing - its based on a process of executing a program with intent of finding an error.
+8.Implementation - Stage where theory of the project is turned into practice.

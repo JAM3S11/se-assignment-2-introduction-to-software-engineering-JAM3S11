@@ -5,6 +5,7 @@ It differs from the traditional as based on the following:
 2.Processes: To assure quality and efficiency, software engineers use structured processes and techniques such as requirement gathering, design, testing, and maintenance.
 3.Team Collaboration: Software engineering frequently necessitates cooperation and collaboration, with varied responsibilities such as designers, testers, and project managers.
 
+
 QUESTION TWO(SOFTWARE DEVELOPMENT LIFE CYCLE)
 The following are the processes based on the software development life cycle:
 1.Preliminary Investigation - it is based on  brief investigation of a system unde consideration and give a clear picture of system in use
@@ -22,7 +23,6 @@ Agile project management is a flexible and iterative approach that enables teams
 
 Key differences between Agile and Waterfall
 1.Roles: Waterfall strictly assigns roles to project team members, with specific duties and responsibilities defined for each team member. In contrast, the agile model empowers team members to collaborate on different aspects of the project over time, leading to a more self-organizing team structure.
-
 
 2.Planning: In waterfall, planning is a linear process done at the beginning of the project, with all requirements and objectives laid out in detail upfront. In contrast, agile planning is a continuous process throughout the project's life cycle, with adjustments made as new information or requirements emerge.
 
@@ -42,6 +42,8 @@ Key differences between Agile and Waterfall
 
 10.Communication: Agile emphasizes informal communication, with frequent interactions between individuals or small groups of stakeholders. In waterfall, communication is more formal, with detailed communication plans and progress reports shared across multiple stakeholders.
 
+
+
 QUESTION THREE(REQUIREMENTS RE-ENGINEERING)
 What is requirements re-engineering? Refers to a disciplined, process oriented approach of definition, documentattion and maintenance of software requirements throughout software development life cycle.
 
@@ -50,6 +52,8 @@ Process of Requirements re-engineering
 2.Requirement discovery- refers to the process of gathering information about the required and existing system and extracting the user and system requirements from this information.
 3.Requirement validation - process of checking requirements actually define the system needed by the customer
 4.Requirement management 
+
+
 
 QUESTION FOUR(SOFTWARE DESIGN PRINCIPLES)
 Explain the concept of modularity in software design:
@@ -71,6 +75,8 @@ While testing may require additional time and resources during the software deve
 2.Ensuring Quality and Reliability:
 Testing is the cornerstone of quality assurance in software development. By conducting comprehensive testing, developers can identify and fix bugs, glitches, and performance issues before the software system is deployed to end-users. Thorough testing helps ensure that the system functions as intended, meets user requirements, and performs reliably under various scenarios and workloads. Without testing, the software may suffer from critical defects, leading to frequent crashes, data corruption, and compromised user experience.
 
+
+
 QUESTION SIX(VERSION CONSTROL SYSTEM)
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 Importance of version control systems:
@@ -81,11 +87,15 @@ Importance of version control systems:
 
 Examples of popular version control version: Github
 
+
+
 QUESTION SEVEN(SOFTWARE PROJECT MANAGEMENT)
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects? 
 The role a software project manager is to help create a team that exhibits cohesiveness
 The Key responsibilities are: analyze project constraints, establish the project objectives, coordinate the project’s internal and external teams, construct the project timelines and monitor the project’s key performance indicators.
 Challenges faced in managing software projects are: lack of accountability, scope creep, poor communication, impossible deadlines and inadequate skills for the project.
+
+
 
 QUESTION EIGHT(SOFTWARE MAINTENANCE)
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
@@ -99,6 +109,7 @@ Maintenance is an essestial part of the software life cycle for the following:
 1.Increase in data security
 2.Enhancement of performance and efficiency
 3.Purpose of a seamless project continuity
+
 
 
 QUESTION NINE(ETHICAL CONSIDERATIONS IN SOFTWARE ENGINEERING)

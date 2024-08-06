@@ -23,6 +23,7 @@ Agile project management is a flexible and iterative approach that enables teams
 Key differences between Agile and Waterfall
 1.Roles: Waterfall strictly assigns roles to project team members, with specific duties and responsibilities defined for each team member. In contrast, the agile model empowers team members to collaborate on different aspects of the project over time, leading to a more self-organizing team structure.
 
+
 2.Planning: In waterfall, planning is a linear process done at the beginning of the project, with all requirements and objectives laid out in detail upfront. In contrast, agile planning is a continuous process throughout the project's life cycle, with adjustments made as new information or requirements emerge.
 
 3.Scope: The waterfall methodology generally discourages changes to the project's scope, even with change requests used correctly. This is because the methodology requires an extensive amount of time spent in the beginning trying to get the plan right, which can make changes more costly after the project has begun. On the other hand, agile is more adaptable to changes in scope, with the development team able to adjust quickly as requirements change.
@@ -72,3 +73,59 @@ Testing is the cornerstone of quality assurance in software development. By cond
 
 QUESTION SIX(VERSION CONSTROL SYSTEM)
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+Importance of version control systems:
+1.Code Consistency: With version control systems, developers can maintain a consistent codebase. Every change made to the code is stored in the system, ensuring that the entire team is working on the same version. This eliminates the hassle of dealing with multiple copies and allows for efficient collaboration.
+2.Collaboration: VCS significantly simplifies collaboration among developers. Multiple team members can work on the same project simultaneously, and any modifications are automatically synced with the central repository. This facilitates seamless teamwork and minimizes conflicts that arise from working on shared codebases.
+3.Error Recovery: VCS provides a safety net for developers by offering the ability to revert to previous versions of the code. If a mistake is made or a bug is introduced, developers can easily roll back to a known working state. This saves valuable time and ensures that the project remains on track.
+4.Record Keeping: Version control systems maintain a detailed history of changes made to the codebase. Each commit is documented, including the author, timestamp, and a description of the modifications. This audit trail is invaluable for understanding the evolution of the code and for identifying the root cause of issues.
+
+Examples of popular version control version: Github
+
+QUESTION SEVEN(SOFTWARE PROJECT MANAGEMENT)
+Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects? 
+The role a software project manager is to help create a team that exhibits cohesiveness
+The Key responsibilities are: analyze project constraints, establish the project objectives, coordinate the project’s internal and external teams, construct the project timelines and monitor the project’s key performance indicators.
+Challenges faced in managing software projects are: lack of accountability, scope creep, poor communication, impossible deadlines and inadequate skills for the project.
+
+QUESTION EIGHT(SOFTWARE MAINTENANCE)
+Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+Software maintenance refers to the process of regularly nurturing and enhancing the software to eliminate bugs, improve performance, modify features, and undertake other tasks to optimize the software such that it provides the best experience to its users.
+Entails of the following types:
+1. Adaptive Software Maintenance
+2.Corective SOftware Maintenance
+3.Preventive Software Maintenance
+4.Perfective Software Maintenance
+Maintenance is an essestial part of the software life cycle for the following:
+1.Increase in data security
+2.Enhancement of performance and efficiency
+3.Purpose of a seamless project continuity
+
+
+QUESTION NINE(ETHICAL CONSIDERATIONS IN SOFTWARE ENGINEERING)
+What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work? 
+Ethical issues that software engineer might face are:
+1.Addictive Design:
+Too many consumer apps use addictive design to keep their users engaged. Instead of a user interacting with an app because they enjoy using it, they interact with the app because its engineers implemented addictive mechanisms that encourage constant engagement and usage over a user's well-being.
+2.Accessibility:
+Accessibility centers around diversity, inclusivity, and equal access to technology. Because software touches the lives of billions of people, engineers should aim to create digital worlds that are accessible to everyone, including those with disabilities.
+
+
+
+REFERENCES
+Float:https://www.float.com/resources/agile-vs-waterfall#:~:text=Planning%3A%20In%20waterfall%2C%20planning%20is,new%20information%20or%20requirements%20emerge.
+
+GeeksForGeeks:https://www.geeksforgeeks.org/what-are-the-components-of-system-design/?ref=next_article
+
+GeeksForGeeks:https://www.geeksforgeeks.org/software-engineering-role-and-responsibilities-of-a-software-project-manager/
+
+Likendin:https://www.linkedin.com/pulse/importance-testing-software-system-implementation-risk-cage-jr-/
+
+Selleo:https://selleo.com/blog/how-does-modular-software-architecture-improve-scalability
+
+Villanova: https://www.villanovau.com/articles/project-management/project-management-challenges/
+
+TatvaSoft:https://www.tatvasoft.com/outsourcing/2023/02/role-of-software-project-manager.html
+
+Simform:https://www.simform.com/blog/software-maintenance/#:~:text=Essentially%2C%20software%20maintenance%20is%20the,best%20experience%20to%20its%20users.
+
+x-Team:https://x-team.com/blog/5-ethical-issues-in-software-development

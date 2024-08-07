@@ -1,0 +1,142 @@
+QUESTION ONE(Defining SOFTWARE ENGINEERING)
+What is software engeneering - it refers to systematic application of engeneering principles, methods, tools to the development and maintenance of a high quality software. It involves development, design, testing, deployment and maintenance of software products.
+It differs from the traditional as based on the following:
+1.Scope: Software engineering encompasses the full software development lifecycle, whereas traditional programming focusses on code.
+2.Processes: To assure quality and efficiency, software engineers use structured processes and techniques such as requirement gathering, design, testing, and maintenance.
+3.Team Collaboration: Software engineering frequently necessitates cooperation and collaboration, with varied responsibilities such as designers, testers, and project managers.
+
+
+QUESTION TWO(SOFTWARE DEVELOPMENT LIFE CYCLE)
+The following are the processes based on the software development life cycle:
+1.Preliminary Investigation - it is based on  brief investigation of a system unde consideration and give a clear picture of system in use
+2.Feasibility Study - its based on testing a proposed system to establish its workability, meeting user requirements, effectuve use of resources.
+3.Detailed System Study: its based proccess that is carrried out with the objectives of a proposed system.
+4. System Analysis - process of collecting factual data, understanding the process involved, identifying problems and recommend feasible suggestions for improving system functioning.
+5.System Design - It is based of the process of transforming the requirements SRS to a design suitable for implementation in programming
+6.Coding - Process where the system design is implemented to a workable system
+7.Testing - its based on a process of executing a program with intent of finding an error.
+8.Implementation - Stage where theory of the project is turned into practice.
+
+Brief Description upon Agile and Waterfall method:
+The waterfall project management method is a linear, step-by-step approach that's ideal for projects with a clear scope and predictable timeline. It involves rigorous planning upfront to ensure that the project stays on track, with progress tracked closely and issues addressed promptly. 
+Agile project management is a flexible and iterative approach that enables teams to quickly adapt to changing project requirements and deliver high-quality results within shorter timeframes.
+
+Key differences between Agile and Waterfall
+1.Roles: Waterfall strictly assigns roles to project team members, with specific duties and responsibilities defined for each team member. In contrast, the agile model empowers team members to collaborate on different aspects of the project over time, leading to a more self-organizing team structure.
+
+2.Planning: In waterfall, planning is a linear process done at the beginning of the project, with all requirements and objectives laid out in detail upfront. In contrast, agile planning is a continuous process throughout the project's life cycle, with adjustments made as new information or requirements emerge.
+
+3.Scope: The waterfall methodology generally discourages changes to the project's scope, even with change requests used correctly. This is because the methodology requires an extensive amount of time spent in the beginning trying to get the plan right, which can make changes more costly after the project has begun. On the other hand, agile is more adaptable to changes in scope, with the development team able to adjust quickly as requirements change.
+
+4.Time frames: The waterfall method is designed for long-term projects with predetermined timelines. The project is completed linearly, with each phase dependent on the previous one. Agile, however, uses short iterations to deliver value rapidly, allowing teams to adjust plans over time and achieve shorter time frames.
+
+5.Speed: Waterfall projects tend to take longer because all requirements must be agreed upon before development can begin. Agile projects, on the other hand, are usually delivered more rapidly than waterfall projects due to the iterative development cycles used in agile.
+
+6.Delivery: Agile allows for quick delivery of projects with shorter lifecycles, as each iteration delivers a workable product. Waterfall requires the completion of all tasks before any work can be released.
+
+7.Flexibility: Agile encourages teams to respond quickly and adaptively to changes during the development process. Waterfall is less flexible and resistant to change once the project's scope has been defined.
+
+8.Testing: Testing is essential to the agile and waterfall methodologies, but the approaches differ significantly. Agile emphasizes incremental testing to identify and resolve issues throughout the development process. In waterfall, testing is usually done at specific milestones, often towards the end of the project.
+
+9.Documentation: Agile relies on minimal documentation, focusing on self-organizing teams and collaboration. Waterfall, in contrast, relies heavily on documenting each step in detail to ensure that all team members are on the same page.
+
+10.Communication: Agile emphasizes informal communication, with frequent interactions between individuals or small groups of stakeholders. In waterfall, communication is more formal, with detailed communication plans and progress reports shared across multiple stakeholders.
+
+
+
+QUESTION THREE(REQUIREMENTS RE-ENGINEERING)
+What is requirements re-engineering? Refers to a disciplined, process oriented approach of definition, documentattion and maintenance of software requirements throughout software development life cycle.
+
+Process of Requirements re-engineering
+1.Requirements elcitation and analysis - refers to the process of indentifying applucation domain, service system the system should provide, hardware constraints and the required performance of the system
+2.Requirement discovery- refers to the process of gathering information about the required and existing system and extracting the user and system requirements from this information.
+3.Requirement validation - process of checking requirements actually define the system needed by the customer
+4.Requirement management 
+
+
+
+QUESTION FOUR(SOFTWARE DESIGN PRINCIPLES)
+Explain the concept of modularity in software design:
+Modularity refers to the practice of breaking down a complex system into smaller, more manageable components or modules.
+
+How does it improve maintainability and scalabity in software system:
+Scalabilty: Interfaces and modularity together support the scalability of software systems. Modularity allows for incremental development and addition of new features by adding or modifying modules. Interfaces ensure that new modules can seamlessly integrate with existing ones as long as they adhere to the established interface contracts, enabling the system to grow and adapt to changing requirements without compromising its overall architecture.
+
+QUESTION FIVE(TESTING IN SOFTWARE ENGINEERING)
+Describe the different levels of software testing:
+1.Unit Testing: refers to the testing individual components or modules of software.
+2.Integration Testing: refers to the testing intersection between different components
+3.System Testing: refers to the testing an entire software system as a whole
+4.Acceptance Testing: refers to testing software against user requirements to ensure it has met all the user needs
+
+Why is Software Testing Crucial
+1.Cost and Time Savings:
+While testing may require additional time and resources during the software development lifecycle, it ultimately leads to cost and time savings in the long run. Early detection and resolution of defects during testing reduce the likelihood of expensive fixes and rework at later stages. By identifying issues early on, developers can address them more efficiently and effectively, reducing the overall development time and cost. Neglecting testing can result in prolonged development cycles, increased maintenance efforts, and the need for costly post-deployment bug fixes.
+2.Ensuring Quality and Reliability:
+Testing is the cornerstone of quality assurance in software development. By conducting comprehensive testing, developers can identify and fix bugs, glitches, and performance issues before the software system is deployed to end-users. Thorough testing helps ensure that the system functions as intended, meets user requirements, and performs reliably under various scenarios and workloads. Without testing, the software may suffer from critical defects, leading to frequent crashes, data corruption, and compromised user experience.
+
+
+
+QUESTION SIX(VERSION CONSTROL SYSTEM)
+What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+Importance of version control systems:
+1.Code Consistency: With version control systems, developers can maintain a consistent codebase. Every change made to the code is stored in the system, ensuring that the entire team is working on the same version. This eliminates the hassle of dealing with multiple copies and allows for efficient collaboration.
+2.Collaboration: VCS significantly simplifies collaboration among developers. Multiple team members can work on the same project simultaneously, and any modifications are automatically synced with the central repository. This facilitates seamless teamwork and minimizes conflicts that arise from working on shared codebases.
+3.Error Recovery: VCS provides a safety net for developers by offering the ability to revert to previous versions of the code. If a mistake is made or a bug is introduced, developers can easily roll back to a known working state. This saves valuable time and ensures that the project remains on track.
+4.Record Keeping: Version control systems maintain a detailed history of changes made to the codebase. Each commit is documented, including the author, timestamp, and a description of the modifications. This audit trail is invaluable for understanding the evolution of the code and for identifying the root cause of issues.
+
+Examples of popular version control version: Github
+
+
+
+QUESTION SEVEN(SOFTWARE PROJECT MANAGEMENT)
+Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects? 
+The role a software project manager is to help create a team that exhibits cohesiveness
+The Key responsibilities are: analyze project constraints, establish the project objectives, coordinate the project’s internal and external teams, construct the project timelines and monitor the project’s key performance indicators.
+Challenges faced in managing software projects are: lack of accountability, scope creep, poor communication, impossible deadlines and inadequate skills for the project.
+
+
+
+QUESTION EIGHT(SOFTWARE MAINTENANCE)
+Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+Software maintenance refers to the process of regularly nurturing and enhancing the software to eliminate bugs, improve performance, modify features, and undertake other tasks to optimize the software such that it provides the best experience to its users.
+Entails of the following types:
+1. Adaptive Software Maintenance
+2.Corective SOftware Maintenance
+3.Preventive Software Maintenance
+4.Perfective Software Maintenance
+Maintenance is an essestial part of the software life cycle for the following:
+1.Increase in data security
+2.Enhancement of performance and efficiency
+3.Purpose of a seamless project continuity
+
+
+
+QUESTION NINE(ETHICAL CONSIDERATIONS IN SOFTWARE ENGINEERING)
+What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work? 
+Ethical issues that software engineer might face are:
+1.Addictive Design:
+Too many consumer apps use addictive design to keep their users engaged. Instead of a user interacting with an app because they enjoy using it, they interact with the app because its engineers implemented addictive mechanisms that encourage constant engagement and usage over a user's well-being.
+2.Accessibility:
+Accessibility centers around diversity, inclusivity, and equal access to technology. Because software touches the lives of billions of people, engineers should aim to create digital worlds that are accessible to everyone, including those with disabilities.
+
+
+
+REFERENCES
+Float:https://www.float.com/resources/agile-vs-waterfall#:~:text=Planning%3A%20In%20waterfall%2C%20planning%20is,new%20information%20or%20requirements%20emerge.
+
+GeeksForGeeks:https://www.geeksforgeeks.org/what-are-the-components-of-system-design/?ref=next_article
+
+GeeksForGeeks:https://www.geeksforgeeks.org/software-engineering-role-and-responsibilities-of-a-software-project-manager/
+
+Likendin:https://www.linkedin.com/pulse/importance-testing-software-system-implementation-risk-cage-jr-/
+
+Selleo:https://selleo.com/blog/how-does-modular-software-architecture-improve-scalability
+
+Villanova: https://www.villanovau.com/articles/project-management/project-management-challenges/
+
+TatvaSoft:https://www.tatvasoft.com/outsourcing/2023/02/role-of-software-project-manager.html
+
+Simform:https://www.simform.com/blog/software-maintenance/#:~:text=Essentially%2C%20software%20maintenance%20is%20the,best%20experience%20to%20its%20users.
+
+x-Team:https://x-team.com/blog/5-ethical-issues-in-software-development
